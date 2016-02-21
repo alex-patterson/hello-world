@@ -1,2 +1,5 @@
 # hello-world
-New repository
+
+Hello everyone! 
+
+I'm Alex, and I'm learning HTML, CSS and JavaScript. 
